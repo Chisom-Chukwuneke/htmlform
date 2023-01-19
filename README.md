@@ -156,8 +156,11 @@
                     <input type="radio" name="course"> <label>Micro Biology</label> </td>
                     </tr>
                 </tbody> 
-            </table> <br><br>
-                    <input type="submit">
+            </table> 
+            
+            <br><br>
+                   
+                   <input type="submit">
                     <input type="submit" value="Reset">
         </form>
     </body>
